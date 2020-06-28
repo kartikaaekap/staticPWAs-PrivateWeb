@@ -1,0 +1,21 @@
+{
+    "name": "Kartika's Website",
+    "short_name": "Tika's Web",
+    "description": "Website pertama berbasis PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f36374",
+    "theme_color": "#f36374",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
